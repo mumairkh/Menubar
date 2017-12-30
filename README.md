@@ -5,25 +5,25 @@ Just Repository
   <head>
      <title> MenuBar</title>
     <style>
-      .container ul{
+      #container ul{
       margin:0;
       padding:0;
       background-color:black;
       list-style-type:none;
       }
-      .container ul li{
+      #container ul li{
       float:left;
       color:white;
       font-size:20px;
       padding:20px;
       }
-      .container ul li:hover{
+      #container ul li:hover{
       background-color:dodgerblue;
       }
       </style>
     </head>
   <body>
-    <div class="container">
+    <div id="container">
     <ul>
        <li>Name</li>
       <li>F/Name</li>
