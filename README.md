@@ -3,7 +3,7 @@ Just Repository
 <!DOCTYPE html>
 <html>
   <head>
-     <title MenuBar</title>
+     <title> MenuBar</title>
     </head>
   <body>
     <ul>
